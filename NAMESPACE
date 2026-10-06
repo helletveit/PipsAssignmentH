@@ -1,1 +1,2 @@
-exportPattern("^[[:alpha:]]+")
+   export(pretty_hist)
+   export(max_col_value)
